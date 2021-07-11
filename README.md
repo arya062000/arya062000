@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 ## Hello I am Arya. 👧
 
 
-#### 🎓 I'm a final year undergraduate student passionate about technology and solving real world problems with tech-aided tools. 
-#### 📝 I'm currently learning Backend-Development with Node.JS.
-#### ⚡ Also, I'm interested in Machine Learning and would love to contribute more in this field.
-#### ✨ In 2021, I look forward to adding more open-source contributions.
+#### 🎓 I'm a Software Engineer at Github. 
 #### 😄 You can reach me on: vardhanarya6@gmail.com .
 
 ![Arya's github stats](https://github-readme-stats.vercel.app/api?username=arya062000&show_icons=true&theme=dracula)
