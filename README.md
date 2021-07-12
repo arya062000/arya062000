@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://images.unsplash.com/photo-1596443686812-2f45229eebc3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80)
-
+![alt text](https://github.blog/wp-content/uploads/2014/05/db213bb4-d22e-11e3-8549-ea607b77ad7c.png?resize=1000%2C576)
 ## Hello I am Arya. 👧
 
 
