@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![alt text](https://github.blog/wp-content/uploads/2014/05/db213bb4-d22e-11e3-8549-ea607b77ad7c.png?resize=1000%2C576)
-## I am Arya(not Stark). 👧
+## I am Arya (not Stark). 👧
 
 
 #### 🎓 I'm a Software Engineer at Github. 
