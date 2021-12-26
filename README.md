@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 #### 🎓 I'm a Software Engineer at Github. 
 #### 😄 You can reach me on: vardhanarya6@gmail.com .
 
-![Arya's github stats](https://github-readme-stats.vercel.app/api?username=arya062000&show_icons=true&theme=dracula)
 
 
 Connect with me on [![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@aryavardhanprasad&color=blue&logo=linkedin&labelColor=purple&style=social)](https://www.linkedin.com/in/arya-vardhan-prasad-195474152/)
