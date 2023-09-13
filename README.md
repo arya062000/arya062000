@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I am Arya (not Stark). 👧
 
 
-#### 🎓 I'm a Software Engineer at Github. 
+
 #### 😄 You can reach me on: vardhanarya6@gmail.com .
 
 
